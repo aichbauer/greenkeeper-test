@@ -1,0 +1,13 @@
+{
+  "name": "greenkeeper-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "input-is": "^1.0.0",
+    "jest": "^23.5.0"
+  }
+}
