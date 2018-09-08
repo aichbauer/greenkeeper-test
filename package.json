@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "input-is": "1.0.3",
+    "input-is": "2.0.0",
     "jest": "^23.5.0"
   }
 }
